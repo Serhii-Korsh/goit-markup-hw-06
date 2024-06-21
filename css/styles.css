@@ -60,7 +60,7 @@ img {
   align-items: center;
   justify-content: space-between;
   /* width: 1158px; */
-  max-width: 288px;
+  max-width: 320px;
   /* padding: 16px 16px; */
   padding-top: 16px;
   padding-bottom: 16px;
@@ -161,6 +161,7 @@ img {
   background-color: transparent;
   cursor: pointer;
   border: none;
+  margin-left: 149px;
 }
 
 .open-menu-use {
@@ -248,7 +249,7 @@ img {
 }
 
 .section-two {
-  margin-bottom: 120px;
+  /* margin-bottom: 120px; */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -284,7 +285,7 @@ img {
   /* width: calc((100% - 72px) / 4); */
   width: 288px;
   /* height: 104px; */
-  height: 120px;
+  /* height: 120px; */
 }
 
 .li-section-two-div {
@@ -1317,7 +1318,7 @@ textarea::placeholder {
 
   .li-section-two {
     width: calc((100% - 72px) / 4);
-    height: 104px;
+    /* height: 104px; */
   }
 
   .li-section-two-div {
